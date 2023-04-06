@@ -1,0 +1,9 @@
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\LuyenTap2\bin\Debug\LuyenTap2.exe.config
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\LuyenTap2\bin\Debug\LuyenTap2.exe
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\LuyenTap2\bin\Debug\LuyenTap2.pdb
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\LuyenTap2\obj\Debug\LuyenTap2.Form1.resources
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\LuyenTap2\obj\Debug\LuyenTap2.Properties.Resources.resources
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\LuyenTap2\obj\Debug\LuyenTap2.csproj.GenerateResource.cache
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\LuyenTap2\obj\Debug\LuyenTap2.csproj.CoreCompileInputs.cache
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\LuyenTap2\obj\Debug\LuyenTap2.exe
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\LuyenTap2\obj\Debug\LuyenTap2.pdb

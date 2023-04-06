@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Tran_Quang_Nhat_04", "02_Tran_Quang_Nhat_04\02_Tran_Quang_Nhat_04.csproj", "{E6D849A0-7783-47F9-97F5-F80B7FD209B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuyenTap2", "LuyenTap2\LuyenTap2.csproj", "{23A1D4D4-4E00-42CA-A6DE-1564A6FE0FE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6D849A0-7783-47F9-97F5-F80B7FD209B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D849A0-7783-47F9-97F5-F80B7FD209B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D849A0-7783-47F9-97F5-F80B7FD209B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D849A0-7783-47F9-97F5-F80B7FD209B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A1D4D4-4E00-42CA-A6DE-1564A6FE0FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A1D4D4-4E00-42CA-A6DE-1564A6FE0FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A1D4D4-4E00-42CA-A6DE-1564A6FE0FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A1D4D4-4E00-42CA-A6DE-1564A6FE0FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36E00A90-5C4E-4F86-954F-A25F3C85A044}
+	EndGlobalSection
+EndGlobal

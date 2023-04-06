@@ -1,0 +1,10 @@
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\02_Tran_Quang_Nhat_04\bin\Debug\02_Tran_Quang_Nhat_04.exe.config
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\02_Tran_Quang_Nhat_04\bin\Debug\02_Tran_Quang_Nhat_04.exe
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\02_Tran_Quang_Nhat_04\bin\Debug\02_Tran_Quang_Nhat_04.pdb
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\02_Tran_Quang_Nhat_04\obj\Debug\02_Tran_Quang_Nhat_04.csproj.AssemblyReference.cache
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\02_Tran_Quang_Nhat_04\obj\Debug\_02_Tran_Quang_Nhat_04.Form1.resources
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\02_Tran_Quang_Nhat_04\obj\Debug\_02_Tran_Quang_Nhat_04.Properties.Resources.resources
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\02_Tran_Quang_Nhat_04\obj\Debug\02_Tran_Quang_Nhat_04.csproj.GenerateResource.cache
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\02_Tran_Quang_Nhat_04\obj\Debug\02_Tran_Quang_Nhat_04.csproj.CoreCompileInputs.cache
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\02_Tran_Quang_Nhat_04\obj\Debug\02_Tran_Quang_Nhat_04.exe
+D:\OnThiWebForm\02_Tran_Quang_Nhat_04\02_Tran_Quang_Nhat_04\obj\Debug\02_Tran_Quang_Nhat_04.pdb
